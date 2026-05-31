@@ -1,3 +1,3 @@
 # Blog-Platform
 
-# Blog Platform using Frontend and Backend.
+## Blog Platform using Frontend and Backend.
